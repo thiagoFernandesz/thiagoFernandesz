@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/thiagoFernandesz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mind-developer/Marvini_Web&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mind-developer&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoFernandesz&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   <div style="display: inline_block"><br>
