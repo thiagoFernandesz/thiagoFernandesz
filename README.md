@@ -1,4 +1,4 @@
-## Olá! <img alt="Thiago-welcome" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4359/4359599.png">
+## Olá! <img alt="Thiago-welcome" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4359/4359599.png"> <img alt="Thiago-welcome2" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4359/4359625.png"> <img alt="Thiago-welcome3" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4364/4364209.png">
 - 🙅‍♂️ Thiago Fernandes Rubio Tersariol
 - 🏢 Desenvolvedor junior React Web na Mind Consulting
 - 🎂 09/06/2000
@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/thiagoFernandesz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mindConsulting&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoFernandesz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoFernandesz&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   <div style="display: inline_block"><br>
