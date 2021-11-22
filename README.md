@@ -1,4 +1,4 @@
-##Olá! <img alt="Thiago-welcome2" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359625.png">
+## Olá! <img alt="Thiago-welcome2" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359625.png">
 - 🙅‍♂️ Thiago Fernandes Rubio Tersariol
 - 🏢 Desenvolvedor junior React Web na Mind Consulting
 - 🎂 09/06/2000
