@@ -3,14 +3,14 @@
 - 🏢 Desenvolvedor junior React Web na Mind Consulting
 - 🎂 09/06/2000
 <div>
-- <a href = "mailto:tersariolthiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-fernandes-71662a1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/thiago_fernandesz40/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:tersariolthiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-fernandes-71662a1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/thiago_fernandesz40/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
   <a href="https://github.com/thiagoFernandesz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoFernandesz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mindConsulting&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoFernandesz&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   <div style="display: inline_block"><br>
