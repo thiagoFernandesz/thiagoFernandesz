@@ -1,5 +1,5 @@
 ## <img alt="Thiago-welcome2" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359625.png">
-- 🏢 Desenvolvedor junior React Web na Mind Consulting
+- 🏢 Desenvolvedor junior
 - 🎂 09/06/2000
 <div>
 <a href = "mailto:tersariolthiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
