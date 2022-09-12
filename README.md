@@ -1,4 +1,3 @@
-## <img alt="Thiago-welcome2" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359625.png">
 - 🏢 Desenvolvedor junior
 - 🎂 09/06/2000
 <div>
